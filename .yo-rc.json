@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Pierre Duchateau",
+      "authorEmail": "pad@dabla.com",
+      "authorUrl": ""
+    }
+  }
+}
